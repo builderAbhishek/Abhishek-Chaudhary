@@ -212,6 +212,20 @@ This was an important practical lesson because the mistake demonstrated the diff
 
 ---
 
+# 📸 Terminal Evidence
+
+The following screenshots show the practical Linux exercises completed during Day 3.
+
+### Terminal Practice — 1
+
+![Day 3 Terminal Practice 1](day3-1.png)
+
+### Terminal Practice — 2
+
+![Day 3 Terminal Practice 2](day3-2.png)
+
+---
+
 # 🧠 Key Concepts Learned
 
 ```text
