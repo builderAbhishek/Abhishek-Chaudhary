@@ -20,8 +20,8 @@ Build a working Linux development environment and become comfortable with basic 
 |---|---|---|
 | Day 1 | WSL2, Ubuntu & Linux Navigation | ✅ Complete |
 | Day 2 | Linux Files & Directories | ✅ Complete |
-| Day 3 | Linux Search & Text Processing | ⬜ |
-| Day 4 | File Permissions | ⬜ |
+| Day 3 | Linux Search & Text Processing | ✅ Complete |
+| Day 4 | File Permissions | ✅ Complete |
 | Day 5 | Pipes & Redirection | ⬜ |
 | Day 6 | Linux Practice Lab | ⬜ |
 | Day 7 | Weekly Review & Documentation | ⬜ |
@@ -161,7 +161,7 @@ the goal is to understand the underlying filesystem operation.
 
 # 📈 Week 1 Status
 
-**Days Completed:** 2 / 7
+**Days Completed:** 4 / 7
 
 **Phase 0 Progress:** 🟡 In Progress
 
@@ -185,8 +185,8 @@ The next focus will be Linux tools for:
 
 - [Day 1 — WSL & Linux Navigation](./day1.md)
 - [Day 2 — Linux Files & Directories](./day2.md)
-- [Day 3](./day3.md)
-- [Day 4](./day4.md)
+- [Day 3 - Linux Search & Text Processing](./day3.md)
+- [Day 4 - File Permissions](./day4.md)
 - [Day 5](./day5.md)
 - [Day 6](./day6.md)
 - [Day 7](./day7.md)
