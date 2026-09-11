@@ -282,6 +282,21 @@ The final permission structure was:
 
 ---
 
+# 📸 Terminal Evidence
+
+The following screenshots show the practical Linux exercises completed during Day 4.
+
+### Terminal Practice — 1
+
+![Day 1 Terminal Practice 1](day4a.png)
+
+### Terminal Practice — 2
+
+![Day 4 Terminal Practice 2](day4b.png)
+
+---
+
+
 # ⚠️ Important Lesson
 
 During this lesson, the focus was on **understanding permissions**, not blindly applying permissions.
